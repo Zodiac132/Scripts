@@ -1,1 +1,1 @@
-  dqd loadstring(game:HttpGet("https://raw.githubusercontent.com/ungew9u/farmtoolw9u/main/farmtoolw9u.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ungew9u/farmtoolw9u/main/farmtoolw9u.txt"))()
